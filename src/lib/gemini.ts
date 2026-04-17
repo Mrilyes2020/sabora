@@ -88,7 +88,7 @@ export async function analyzeBlackboard(
   parts.push({ text: instructionText.join(" ") });
 
   const model = ai.models.generateContent({
-    model: "gemini-3.1-pro-preview", 
+    model: "gemini-2.0-flash", 
     contents: [
       {
         role: "user",
