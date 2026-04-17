@@ -1,0 +1,8 @@
+{
+  "name": "SabboraAI",
+  "description": "Digitize blackboard content using AI vision. Convert photos to structured lessons, LaTeX, and summaries.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
